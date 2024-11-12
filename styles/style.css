@@ -10,22 +10,23 @@ body {
 }
 
 header {
-    background: #333;
+    background: #ff0000;
     padding: 1rem;
-    color: white;
+    color: #ffffff;
     text-align: center;
 }
 
 header nav ul {
     list-style: none;
     display: flex;
-    justify-content: center;
+    justify-content: left;
 }
 
 header nav ul li {
     margin: 0 1rem;
-    font-size: 18px;
+    font-size: 40px;
     cursor: pointer;
+    font-family: Impact, sans-serif
 }
 
 header nav ul li a {
@@ -47,12 +48,13 @@ section {
 /* Hero Section */
 
 #hero {
-    background: #f4f4f4;
+    background: #000000;
     padding: 5rem 2rem;
 }
 
 #hero h1 {
     font-size: 42px;
+    color: #ffffff;
 }
 
 #hero button {
@@ -78,7 +80,7 @@ section {
 #about {
     margin: 20px;
     border-radius: 10px;
-    background-color: #e2e2e2;
+    background-color: #c5c5c5;
 }
 
 #about h2 {
@@ -138,11 +140,12 @@ hr {
 /* Footer */
 
 footer {
-    background: #333;
-    color: white;
+    background: #ff0000;
+    color: #ffffff;
     text-align: center;
     padding: 1rem;
     width: 100%;
+    font-family: Arial, sans-serif; ;
 }
 
   
