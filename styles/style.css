@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background: #ff0000;
+    background: #7a7a7a;
     padding: 1rem;
     color: #ffffff;
     text-align: center;
@@ -30,7 +30,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-    color: white;
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
@@ -80,7 +80,7 @@ section {
 #about {
     margin: 20px;
     border-radius: 10px;
-    background-color: #c5c5c5;
+    background-color: #e2e2e2;
 }
 
 #about h2 {
