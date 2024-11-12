@@ -58,6 +58,10 @@ section {
     color: #ffffff;
 }
 
+#hero p {
+    color: #ffffff;
+}
+
 #hero button {
     border: none;
     padding: 20px;
